@@ -1,4 +1,4 @@
-s=int(input("กรอกระยะทาง : "))
-t=int(input("กรอกเวลา :  "))
+s=float(input("กรอกระยะทาง : "))
+t=float(input("กรอกเวลา :  "))
 v=s/t
 print(int(v),"km/h")
